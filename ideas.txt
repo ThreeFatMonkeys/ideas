@@ -1,7 +1,10 @@
 Project Ideas
 
-Hard
+  Hard
 Monster Collecting Game
-Medium
 
-Easy
+  Medium
+Ultimate Pong
+
+  Easy
+Generative Text
