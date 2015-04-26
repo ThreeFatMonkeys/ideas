@@ -2,13 +2,13 @@ Project Ideas
 
   Hard
 Monster Collecting Game
-Card Game
 Interactive Movie (movie that lets you choose different paths at different points, so there can be multiple endings)
 Angry Birds-esque Game
 
   Medium
 Ultimate Pong
 Art Application
+Card Game
 
   Easy
 Generative Text
